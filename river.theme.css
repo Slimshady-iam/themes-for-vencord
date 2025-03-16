@@ -1,0 +1,26 @@
+/**
+ * @name River
+ * @author Elisniper
+ * @version 1.2.0
+ * @description Discord Glass Wave Theme
+ * @source https://github.com/Elisniper/Glass-Wave
+ * @website https://xbased.net
+ * @BDEditor Glass Wave
+*/
+
+@import url('https://elisniper.github.io/Glass-Wave/release/import.css');
+
+:root {
+  --var-background: url('https://i.imgur.com/PAUpogt.jpeg');
+  --var-background-size: cover;
+  --var-background-position: center;
+  --var-accent: #3D3D3D;
+  --var-popout-color: rgb(41,41,41);
+  --var-chat-bubbles-background: #2B2B2B;
+  --var-chat-mentioned: #4F4F4F;
+  --var-font: gg sans;
+}
+
+/* Any custom CSS below here */
+
+

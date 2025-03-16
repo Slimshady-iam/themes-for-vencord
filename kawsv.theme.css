@@ -1,0 +1,26 @@
+/**
+ * @name Kaws V1
+ * @author Elisniper
+ * @version 1.2.0
+ * @description Discord Glass Wave Theme
+ * @source https://github.com/Elisniper/Glass-Wave
+ * @website https://xbased.net
+ * @BDEditor Glass Wave
+*/
+
+@import url('https://elisniper.github.io/Glass-Wave/release/import.css');
+
+:root {
+  --var-background: url('https://i.imgur.com/dBBMtJD.jpeg');
+  --var-background-size: cover;
+  --var-background-position: center;
+  --var-accent: #3B3B3B;
+  --var-popout-color: rgb(75,74,75);
+  --var-chat-bubbles-background: #212121;
+  --var-chat-mentioned: #5F5F5F;
+  --var-font: gg sans;
+}
+
+/* Any custom CSS below here */
+
+
